@@ -29,6 +29,8 @@
   ![OpenCV](https://img.shields.io/badge/-OpenCV-000000?style=flat&logo=opencv)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=tajammulbasheer" alt="tajammulbasheer" /> </p>
  
 
 <a href="https://github.com/tajammulbasheer">
