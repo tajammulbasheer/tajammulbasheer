@@ -12,7 +12,7 @@
 ### About Me
 
 - &nbsp; 👨🏻‍💻 I am a Machine Learning and Artificial Intelligence Enthusiast
-- &nbsp; 🎓 Pursuing Undergraduate in CSE.
+- &nbsp; 🎓 Pursuing Masters in CSE.
 - &nbsp; 🌱 Learning and exploring Deep Learning.
     
 ### Tech Stack
