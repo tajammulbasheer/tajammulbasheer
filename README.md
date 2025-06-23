@@ -1,51 +1,63 @@
+<img align="right" src="https://github.com/aayuvraj/aayuvraj/blob/main/devguy3.gif" alt="Code" width="420" height="330"/>
 
-<img align="right" src="https://github.com/aayuvraj/aayuvraj/blob/main/devguy3.gif" alt="Code" width="420" height="330">
-
-
-### Hi there, I am Tajamul Bashir 👋
+# Hi there, I'm Tajamul Bashir 👋  
 [![Linkedin Badge](https://img.shields.io/badge/-tajammulbasheer-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tajammulbasheer/)](https://www.linkedin.com/in/tajammulbasheer/)
-[![Gmail Badge](https://img.shields.io/badge/-tajammulbasheer999@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tajammulbasheer999@gmail.com)](mailto:tajammulbasheer999@gmail.com) 
+[![Gmail Badge](https://img.shields.io/badge/-tajammulbasheer999@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tajammulbasheer999@gmail.com)](mailto:tajammulbasheer999@gmail.com)
 
-<!--- 🎯 Portfolio website: [Portfolio](https://tajammulbasheer.github.io/)--->
-- ⚡ Fun fact: The first rule of programming- if it works, don’t touch it.🤓
+<!-- 🌐 Portfolio: [Visit My Website](https://tajammulbasheer.github.io/) -->
 
-### About Me
 
-- &nbsp; 👨🏻‍💻 I am a Machine Learning and Artificial Intelligence Enthusiast
-- &nbsp; 🎓 Pursuing Masters in CSE.
-- &nbsp; 🌱 Learning and exploring Deep Learning.
-    
-### Tech Stack
-- 🌐 &nbsp; 
-  ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-  ![Cpp](https://img.shields.io/badge/-cpp-333333?style=flat&logo=cplusplus&logoColor=blue)
-  ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
-  ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=CSS3)
+### 👨‍💻 About Me
 
-- ⚙️ &nbsp;
-  ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
-  ![Tensorflow](https://img.shields.io/badge/-Tensorflow-000000?style=flat&logo=tensorflow)
-  ![PyTorch](https://img.shields.io/badge/-PyTorch-000000?style=flat&logo=pytorch)
-  ![OpenCV](https://img.shields.io/badge/-OpenCV-000000?style=flat&logo=opencv)
-- 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=tajammulbasheer" alt="tajammulbasheer" /> </p>
- 
+- Pursuing Master's in Computer Science & Engineering  
+- Passionate about Machine Learning and Deep Learning  
+- Currently exploring neural networks and computer vision  
+- Interested in real-world AI applications and model optimization  
+- Fun fact: First rule of programming — *If it works, don’t touch it.* 😄
 
-<a href="https://github.com/tajammulbasheer">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tajammulbasheer&theme=buefy&show_icons=true" />
 
-</a>
+### 🛠 Tech Stack
 
+#### Programming Languages  
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python) 
+![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=cplusplus&logoColor=blue) 
+![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c&logoColor=blue)
+
+#### Libraries and Frameworks  
+![NumPy](https://img.shields.io/badge/-NumPy-000000?style=flat&logo=numpy) 
+![Pandas](https://img.shields.io/badge/-Pandas-000000?style=flat&logo=pandas) 
+![Scikit-learn](https://img.shields.io/badge/-Scikit%20Learn-000000?style=flat&logo=scikit-learn) 
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-000000?style=flat&logo=tensorflow) 
+![PyTorch](https://img.shields.io/badge/-PyTorch-000000?style=flat&logo=pytorch) 
+![OpenCV](https://img.shields.io/badge/-OpenCV-000000?style=flat&logo=opencv)
+
+#### Tools and Platforms  
+![VS Code](https://img.shields.io/badge/-VS%20Code-000000?style=flat&logo=visual-studio-code&logoColor=007ACC) 
+![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=white)
+
+---
+
+<!--### 🚀 Projects
+
+- AI Object Detector – YOLOv5 + OpenCV-based object detection system  
+- Handwritten Digit Classifier – Built with TensorFlow using the MNIST dataset  
+- COVID-19 Data Visualizer – Interactive Python dashboard using matplotlib and pandas  
+
+More projects available in pinned repositories.
+
+-->
+
+### 📊 GitHub Stats
 
 <div align="center">
-    <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
+  <img src="https://github-readme-stats.vercel.app/api?username=tajammulbasheer&show_icons=true&theme=buefy" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tajammulbasheer&layout=compact&theme=buefy" width="48%"/>
 </div>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tajammulbasheer" alt="Profile Views" />
+</p>
 
+### 🙌 Let's Connect
 
-<!---
-tajammulbasheer/tajammulbasheer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+If you're interested in AI, machine learning, or just want to connect—feel free to reach out or star ⭐ some repositories.
