@@ -2,7 +2,7 @@
 
 # Hi there, I'm Tajamul Bashir 👋  
 [![Linkedin Badge](https://img.shields.io/badge/-tajammulbasheer-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tajammulbasheer/)](https://www.linkedin.com/in/tajammulbasheer/)
-[![Gmail Badge](https://img.shields.io/badge/-tajammulbasheer999@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tajammulbasheer999@gmail.com)](mailto:tajammulbasheer999@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-tajammulbasheer.one@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tajammulbasheer999@gmail.com)](mailto:tajammulbasheer999@gmail.com)
 
 <!-- 🌐 Portfolio: [Visit My Website](https://tajammulbasheer.github.io/) -->
 
