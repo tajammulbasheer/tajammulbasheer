@@ -1,13 +1,19 @@
-# Tajamul Bashir
+<img align="right" src="https://raw.githubusercontent.com/aayuvraj/aayuvraj/main/devguy3.gif" alt="Code" width="420" height="330"/>
 
-M.Tech in Computer Science and Engineering at **IIT Jammu** (2025–2027). I work on computer vision,
-mainly continual and few-shot learning: models that learn new classes from a handful of examples
-without forgetting old ones. My thesis is on class-incremental few-shot object detection.
+# Hi there, I'm Tajamul Bashir 👋  
+[![Linkedin Badge](https://img.shields.io/badge/-tajammulbasheer-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tajammulbasheer/)](https://www.linkedin.com/in/tajammulbasheer/)
+[![Gmail Badge](https://img.shields.io/badge/-tajammulbasheer.one@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tajammulbasheer.one@gmail.com)](mailto:tajammulbasheer.one@gmail.com)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-tajammulbasheer-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tajammulbasheer/)
-[![Email](https://img.shields.io/badge/Email-tajammulbasheer.one%40gmail.com-c14438?style=flat-square&logo=gmail&logoColor=white)](mailto:tajammulbasheer.one@gmail.com)
+<!-- 🌐 Portfolio: [Visit My Website](https://tajammulbasheer.github.io/) -->
 
-## Featured work
+### 👨‍💻 About Me
+
+- 🎓 M.Tech in Computer Science & Engineering at **IIT Jammu** (2025–2027)
+- 🔬 Working on computer vision, mainly continual and few-shot learning: models that learn new classes from a handful of examples without forgetting old ones
+- 📄 Thesis: class-incremental few-shot object detection
+- ⚡ Fun fact: First rule of programming — *If it works, don’t touch it.* 😄
+
+### 🚀 Featured Work
 
 **[Leaf disease detection: beyond in-distribution accuracy](https://github.com/tajammulbasheer/plant_leaf_diseases_detection)**<br>
 *PyTorch · EfficientNet · U-Net · Grad-CAM*<br>
@@ -21,6 +27,38 @@ A fourteen-day reproduction of the paper's self-trained NL-to-SQL results on one
 *Python · cryptography · TLS · PyQt6*<br>
 Peer-to-peer chat with ECDHE key exchange, a Double Ratchet, certificate-based authentication and encrypted group chats. Includes a [security audit](https://github.com/tajammulbasheer/secure_chat_app/blob/main/docs/SECURITY_AUDIT.md) of the first version and a record of how each finding was fixed.
 
-## Tools
+### 🛠 Tech Stack
 
-Python, C++, C · PyTorch, TensorFlow/Keras, scikit-learn, OpenCV, NumPy, pandas · Git, Linux, Docker
+#### Programming Languages  
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python) 
+![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=cplusplus&logoColor=blue) 
+![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c&logoColor=blue)
+
+#### Libraries and Frameworks  
+![NumPy](https://img.shields.io/badge/-NumPy-000000?style=flat&logo=numpy) 
+![Pandas](https://img.shields.io/badge/-Pandas-000000?style=flat&logo=pandas) 
+![Scikit-learn](https://img.shields.io/badge/-Scikit%20Learn-000000?style=flat&logo=scikit-learn) 
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-000000?style=flat&logo=tensorflow) 
+![PyTorch](https://img.shields.io/badge/-PyTorch-000000?style=flat&logo=pytorch) 
+![OpenCV](https://img.shields.io/badge/-OpenCV-000000?style=flat&logo=opencv)
+
+#### Tools and Platforms  
+![VS Code](https://img.shields.io/badge/-VS%20Code-000000?style=flat&logo=visual-studio-code&logoColor=007ACC) 
+![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tajammulbasheer&show_icons=true&theme=buefy" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tajammulbasheer&layout=compact&theme=buefy" width="48%"/>
+</div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tajammulbasheer" alt="Profile Views" />
+</p>
+
+### 🙌 Let's Connect
+
+If you're interested in AI, machine learning, or just want to connect—feel free to reach out or star ⭐ some repositories.
