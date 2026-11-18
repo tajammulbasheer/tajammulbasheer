@@ -9,16 +9,16 @@ without forgetting old ones. My thesis is on class-incremental few-shot object d
 
 ## Featured work
 
-**[Leaf disease detection: beyond in-distribution accuracy](https://github.com/tajammulbasheer/plant_leaf_diseases_detection)**  
-*PyTorch · EfficientNet · U-Net · Grad-CAM*  
+**[Leaf disease detection: beyond in-distribution accuracy](https://github.com/tajammulbasheer/plant_leaf_diseases_detection)**<br>
+*PyTorch · EfficientNet · U-Net · Grad-CAM*<br>
 A classifier that scores 99.9% on PlantVillage lab photos gets 18.6% on real field photos from PlantDoc. The repository measures that gap and tests few-shot, semi-supervised and class-incremental training, plus weakly supervised lesion localization. Results tables are generated from the runs, with tests and CI.
 
-**[Reproducing Table-Specialist (EMNLP 2025)](https://github.com/tajammulbasheer/table_specialist_repair)**  
-*LLMs · Llama-3.1-8B · QLoRA · DPO · vLLM*  
+**[Reproducing Table-Specialist (EMNLP 2025)](https://github.com/tajammulbasheer/table_specialist_repair)**<br>
+*LLMs · Llama-3.1-8B · QLoRA · DPO · vLLM*<br>
 A fourteen-day reproduction of the paper's self-trained NL-to-SQL results on one workstation. The README's base checkpoint does not match the paper, but the Instruct checkpoint does (0.611 against 0.598). I also tested two ways to reuse rejected training data: DPO hurt, and repairing rejected pairs gained +0.042 on the base model. [Report](https://github.com/tajammulbasheer/table_specialist_repair/blob/main/report/main.pdf)
 
-**[Secure end-to-end encrypted chat](https://github.com/tajammulbasheer/secure_chat_app)**  
-*Python · cryptography · TLS · PyQt6*  
+**[Secure end-to-end encrypted chat](https://github.com/tajammulbasheer/secure_chat_app)**<br>
+*Python · cryptography · TLS · PyQt6*<br>
 Peer-to-peer chat with ECDHE key exchange, a Double Ratchet, certificate-based authentication and encrypted group chats. Includes a [security audit](https://github.com/tajammulbasheer/secure_chat_app/blob/main/docs/SECURITY_AUDIT.md) of the first version and a record of how each finding was fixed.
 
 ## Tools
