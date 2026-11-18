@@ -1,63 +1,33 @@
-<img align="right" src="https://github.com/aayuvraj/aayuvraj/blob/main/devguy3.gif" alt="Code" width="420" height="330"/>
+# Tajamul Bashir
 
-# Hi there, I'm Tajamul Bashir 👋  
-[![Linkedin Badge](https://img.shields.io/badge/-tajammulbasheer-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tajammulbasheer/)](https://www.linkedin.com/in/tajammulbasheer/)
-[![Gmail Badge](https://img.shields.io/badge/-tajammulbasheer.one@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tajammulbasheer999@gmail.com)](mailto:tajammulbasheer999@gmail.com)
+M.Tech in Computer Science and Engineering at **IIT Jammu** (2025–2027). I work on computer vision,
+mainly continual and few-shot learning: models that learn new classes from a handful of examples
+without forgetting old ones. My thesis is on class-incremental few-shot object detection.
 
-<!-- 🌐 Portfolio: [Visit My Website](https://tajammulbasheer.github.io/) -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-tajammulbasheer-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tajammulbasheer/)
+[![Email](https://img.shields.io/badge/Email-tajammulbasheer.one%40gmail.com-c14438?style=flat-square&logo=gmail&logoColor=white)](mailto:tajammulbasheer.one@gmail.com)
 
+## Featured work
 
-### 👨‍💻 About Me
+**[Leaf disease detection: beyond in-distribution accuracy](https://github.com/tajammulbasheer/plant_leaf_diseases_detection)**
+PyTorch · EfficientNet · U-Net · Grad-CAM
+A classifier that scores 99.9% on PlantVillage lab photos gets 18.6% on real field photos from PlantDoc.
+The repository measures that gap and tests few-shot, semi-supervised and class-incremental training,
+plus weakly supervised lesion localization. Results tables are generated from the runs, with tests and CI.
 
-- Pursuing Master's in Computer Science & Engineering  
-- Passionate about Machine Learning and Deep Learning  
-- Currently exploring neural networks and computer vision  
-- Interested in real-world AI applications and model optimization  
-- Fun fact: First rule of programming — *If it works, don’t touch it.* 😄
+**[Reproducing Table-Specialist (EMNLP 2025)](https://github.com/tajammulbasheer/table_specialist_repair)**
+LLMs · Llama-3.1-8B · QLoRA · DPO · vLLM
+A fourteen-day reproduction of the paper's self-trained NL-to-SQL results on one workstation. The README's base
+checkpoint does not match the paper, but the Instruct checkpoint does (0.611 against 0.598). I also tested two ways to
+reuse rejected training data: DPO hurt, and repairing rejected pairs gained +0.042 on the base model.
+[Report](https://github.com/tajammulbasheer/table_specialist_repair/blob/main/report/main.pdf)
 
+**[Secure end-to-end encrypted chat](https://github.com/tajammulbasheer/secure_chat_app)**
+Python · cryptography · TLS · PyQt6
+Peer-to-peer chat with ECDHE key exchange, a Double Ratchet, certificate-based authentication and
+encrypted group chats. Includes a [security audit](https://github.com/tajammulbasheer/secure_chat_app/blob/main/docs/SECURITY_AUDIT.md)
+of the first version and a record of how each finding was fixed.
 
-### 🛠 Tech Stack
+## Tools
 
-#### Programming Languages  
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python) 
-![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=cplusplus&logoColor=blue) 
-![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c&logoColor=blue)
-
-#### Libraries and Frameworks  
-![NumPy](https://img.shields.io/badge/-NumPy-000000?style=flat&logo=numpy) 
-![Pandas](https://img.shields.io/badge/-Pandas-000000?style=flat&logo=pandas) 
-![Scikit-learn](https://img.shields.io/badge/-Scikit%20Learn-000000?style=flat&logo=scikit-learn) 
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-000000?style=flat&logo=tensorflow) 
-![PyTorch](https://img.shields.io/badge/-PyTorch-000000?style=flat&logo=pytorch) 
-![OpenCV](https://img.shields.io/badge/-OpenCV-000000?style=flat&logo=opencv)
-
-#### Tools and Platforms  
-![VS Code](https://img.shields.io/badge/-VS%20Code-000000?style=flat&logo=visual-studio-code&logoColor=007ACC) 
-![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=white)
-
----
-
-<!--### 🚀 Projects
-
-- AI Object Detector – YOLOv5 + OpenCV-based object detection system  
-- Handwritten Digit Classifier – Built with TensorFlow using the MNIST dataset  
-- COVID-19 Data Visualizer – Interactive Python dashboard using matplotlib and pandas  
-
-More projects available in pinned repositories.
-
--->
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tajammulbasheer&show_icons=true&theme=buefy" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tajammulbasheer&layout=compact&theme=buefy" width="48%"/>
-</div>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tajammulbasheer" alt="Profile Views" />
-</p>
-
-### 🙌 Let's Connect
-
-If you're interested in AI, machine learning, or just want to connect—feel free to reach out or star ⭐ some repositories.
+Python, C++, C · PyTorch, TensorFlow/Keras, scikit-learn, OpenCV, NumPy, pandas · Git, Linux, Docker
