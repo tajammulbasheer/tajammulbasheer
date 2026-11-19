@@ -21,7 +21,7 @@ A classifier that scores 99.9% on PlantVillage lab photos gets 18.6% on real fie
 
 **[Reproducing Table-Specialist (EMNLP 2025)](https://github.com/tajammulbasheer/table_specialist_repair)**<br>
 *LLMs · Llama-3.1-8B · QLoRA · DPO · vLLM*<br>
-A fourteen-day reproduction of the paper's self-trained NL-to-SQL results on one workstation. The README's base checkpoint does not match the paper, but the Instruct checkpoint does (0.611 against 0.598). I also tested two ways to reuse rejected training data: DPO hurt, and repairing rejected pairs gained +0.042 on the base model. [Report](https://github.com/tajammulbasheer/table_specialist_repair/blob/main/report/main.pdf)
+A reproduction of the paper's self-trained NL-to-SQL results on one workstation. The README's base checkpoint does not match the paper, but the Instruct checkpoint does (0.611 against 0.598). I also tested two ways to reuse rejected training data: DPO hurt, and repairing rejected pairs gained +0.042 on the base model. [Report](https://github.com/tajammulbasheer/table_specialist_repair/blob/main/report/main.pdf)
 
 **[Secure end-to-end encrypted chat](https://github.com/tajammulbasheer/secure_chat_app)**<br>
 *Python · cryptography · TLS · PyQt6*<br>
