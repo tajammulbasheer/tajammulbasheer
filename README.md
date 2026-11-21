@@ -1,64 +1,58 @@
-<img align="right" src="https://raw.githubusercontent.com/aayuvraj/aayuvraj/main/devguy3.gif" alt="Code" width="420" height="330"/>
-
-# Hi there, I'm Tajamul Bashir 👋  
-[![Linkedin Badge](https://img.shields.io/badge/-tajammulbasheer-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tajammulbasheer/)](https://www.linkedin.com/in/tajammulbasheer/)
-[![Gmail Badge](https://img.shields.io/badge/-tajammulbasheer.one@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tajammulbasheer.one@gmail.com)](mailto:tajammulbasheer.one@gmail.com)
-
-<!-- 🌐 Portfolio: [Visit My Website](https://tajammulbasheer.github.io/) -->
-
-### 👨‍💻 About Me
-
-- 🎓 M.Tech in Computer Science & Engineering at **IIT Jammu** (2025–2027)
-- 🔬 Working on computer vision, mainly continual and few-shot learning: models that learn new classes from a handful of examples without forgetting old ones
-- 📄 Thesis: class-incremental few-shot object detection
-- ⚡ Fun fact: First rule of programming — *If it works, don’t touch it.* 😄
-
-### 🚀 Featured Work
-
-**[Leaf disease detection: beyond in-distribution accuracy](https://github.com/tajammulbasheer/plant_leaf_diseases_detection)**<br>
-*PyTorch · EfficientNet · U-Net · Grad-CAM*<br>
-A classifier that scores 99.9% on PlantVillage lab photos gets 18.6% on real field photos from PlantDoc. The repository measures that gap and tests few-shot, semi-supervised and class-incremental training, plus weakly supervised lesion localization. Results tables are generated from the runs, with tests and CI.
-
-**[Reproducing Table-Specialist (EMNLP 2025)](https://github.com/tajammulbasheer/table_specialist)**<br>
-*LLMs · Llama-3.1-8B · QLoRA · DPO · vLLM*<br>
-A reproduction of the paper's self-trained NL-to-SQL results on one workstation. The README's base checkpoint does not match the paper, but the Instruct checkpoint does (0.611 against 0.598). I also tested two ways to reuse rejected training data: DPO hurt, and repairing rejected pairs gained +0.042 on the base model. [Report](https://github.com/tajammulbasheer/table_specialist/blob/main/report/main.pdf)
-
-**[Secure end-to-end encrypted chat](https://github.com/tajammulbasheer/secure_chat_app)**<br>
-*Python · cryptography · TLS · PyQt6*<br>
-Peer-to-peer chat with ECDHE key exchange, a Double Ratchet, certificate-based authentication and encrypted group chats. Includes a [security audit](https://github.com/tajammulbasheer/secure_chat_app/blob/main/docs/SECURITY_AUDIT.md) of the first version and a record of how each finding was fixed.
-
-### 🛠 Tech Stack
-
-#### Programming Languages  
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python) 
-![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=cplusplus&logoColor=blue) 
-![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c&logoColor=blue)
-
-#### Libraries and Frameworks  
-![NumPy](https://img.shields.io/badge/-NumPy-000000?style=flat&logo=numpy) 
-![Pandas](https://img.shields.io/badge/-Pandas-000000?style=flat&logo=pandas) 
-![Scikit-learn](https://img.shields.io/badge/-Scikit%20Learn-000000?style=flat&logo=scikit-learn) 
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-000000?style=flat&logo=tensorflow) 
-![PyTorch](https://img.shields.io/badge/-PyTorch-000000?style=flat&logo=pytorch) 
-![OpenCV](https://img.shields.io/badge/-OpenCV-000000?style=flat&logo=opencv)
-
-#### Tools and Platforms  
-![VS Code](https://img.shields.io/badge/-VS%20Code-000000?style=flat&logo=visual-studio-code&logoColor=007ACC) 
-![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=white)
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tajammulbasheer&show_icons=true&theme=buefy" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tajammulbasheer&layout=compact&theme=buefy&hide=jupyter%20notebook" width="48%"/>
-</div>
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tajammulbasheer" alt="Profile Views" />
+  <img src="assets/banner.svg" alt="Tajamul Bashir — deep learning, computer vision, LLMs and machine learning" width="100%"/>
 </p>
 
-### 🙌 Let's Connect
+<p align="center">
+  <a href="https://www.linkedin.com/in/tajammulbasheer/">LinkedIn</a> ·
+  <a href="mailto:tajammulbasheer.one@gmail.com">tajammulbasheer.one@gmail.com</a> ·
+  <a href="Tajamul_Bashir_CV.pdf">CV (PDF)</a>
+</p>
 
-If you're interested in AI, machine learning, or just want to connect—feel free to reach out or star ⭐ some repositories.
+### Research interests
+
+I am interested in deep learning and AI broadly, especially computer vision and large language models.
+The questions I keep coming back to are how models learn from limited or imperfect data, how well they hold
+up outside the data they were trained on, and how to make them reliable enough to use in practice.
+
+### Master's research
+
+**Class-incremental few-shot object detection for medical imaging** · IIT Jammu, 2025–2027<br>
+In many real-world settings, some categories have plenty of labelled data while new ones appear later with only a
+few examples. My thesis develops object detectors that learn new classes from a handful of images, without retraining
+on earlier data and without forgetting the classes they already know. Work in progress; paper in preparation.
+
+### Selected projects
+
+**Plant Disease Recognition: Lab-to-Field Generalization**<br>
+A classifier that scores 99.9% on PlantVillage lab photos gets 18.6% on real field photos from PlantDoc.
+The project measures that gap and tests few-shot, semi-supervised and class-incremental training, plus
+weakly supervised lesion localization.<br>
+*PyTorch · EfficientNet · U-Net · Grad-CAM* — [Code](https://github.com/tajammulbasheer/plant_leaf_diseases_detection)
+
+**Reproducing and Extending Table-LLM-Specialist (EMNLP 2025)**<br>
+Reproduced the paper's self-trained NL-to-SQL results on Llama-3.1-8B using public GitTables data in place of its
+unreleased corpus; the Instruct model matched the paper (0.611 against 0.598). Extended the method with Repair-TS,
+which repairs the training pairs the paper's validator discards using execution feedback: +0.042 on base NL-to-SQL,
+with gains on NL-to-Scala and NL-to-R.<br>
+*Llama-3.1-8B · QLoRA · DPO · vLLM* — [Code](https://github.com/tajammulbasheer/table_specialist) ·
+[Report](https://github.com/tajammulbasheer/table_specialist/blob/main/report/main.pdf) ·
+[Slides](https://github.com/tajammulbasheer/table_specialist/blob/main/presentation/endsem.pdf)
+
+### Currently
+
+- Rebuilding a sign language recognition project (image and video)
+
+### Education
+
+**M.Tech, Computer Science and Engineering** — IIT Jammu, 2025–2027<br>
+**B.E., Computer Engineering** — GCET Jammu, 2020–2024
+
+### Skills
+
+Python, C++, C · PyTorch, TensorFlow/Keras, scikit-learn, OpenCV, NumPy, pandas · Hugging Face, vLLM ·
+Git, Linux, Docker, LaTeX
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tajammulbasheer&show_icons=true&hide_rank=true&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tajammulbasheer&layout=compact&hide=jupyter%20notebook&hide_border=true" height="150"/>
+</p>

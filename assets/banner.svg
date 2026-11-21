@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 280" width="1200" height="280" role="img" aria-label="Tajamul Bashir — deep learning, computer vision, LLMs and machine learning">
+  <defs>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24" fill="none" stroke="#e3e7ee" stroke-width="1"/>
+    </pattern>
+    <linearGradient id="fade" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0" stop-color="#f7f8fb" stop-opacity="1"/>
+      <stop offset="0.55" stop-color="#f7f8fb" stop-opacity="0.92"/>
+      <stop offset="1" stop-color="#f7f8fb" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="280" rx="14" fill="#f7f8fb"/>
+  <rect width="1200" height="280" rx="14" fill="url(#grid)"/>
+  <rect width="700" height="280" rx="14" fill="url(#fade)"/>
+
+  <!-- Text -->
+  <text x="64" y="122" font-family="Georgia, 'Times New Roman', serif" font-size="52" fill="#1f2a44">Tajamul Bashir</text>
+  <text x="66" y="166" font-family="Helvetica, Arial, sans-serif" font-size="21" fill="#4a5568" letter-spacing="0.4">Deep Learning · Computer Vision · LLMs · Machine Learning</text>
+  <text x="66" y="200" font-family="Helvetica, Arial, sans-serif" font-size="17" fill="#718096" letter-spacing="0.4">Currently working on class-incremental few-shot object detection</text>
+  <rect x="66" y="222" width="56" height="3" rx="1.5" fill="#0f766e"/>
+
+  <!-- Leaf with a detection box -->
+  <g transform="translate(735 62)">
+    <path d="M70 150 C 20 120, 10 50, 70 10 C 130 50, 120 120, 70 150 Z" fill="#e6f2ef" stroke="#0f766e" stroke-width="2.5"/>
+    <path d="M70 150 L70 22" stroke="#0f766e" stroke-width="2"/>
+    <path d="M70 60 L46 44 M70 84 L42 66 M70 108 L46 94 M70 60 L94 44 M70 84 L98 66 M70 108 L94 94" stroke="#0f766e" stroke-width="1.6" fill="none"/>
+    <circle cx="88" cy="74" r="7" fill="#d69e2e" opacity="0.85"/>
+    <circle cx="52" cy="102" r="5" fill="#d69e2e" opacity="0.85"/>
+    <rect x="72" y="58" width="32" height="32" fill="none" stroke="#b45309" stroke-width="2" stroke-dasharray="5 4"/>
+    <rect x="72" y="42" width="58" height="16" fill="#b45309"/>
+    <text x="76" y="54" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#ffffff">lesion .91</text>
+  </g>
+
+  <!-- Table with a highlighted cell -->
+  <g transform="translate(905 80)">
+    <rect x="0" y="0" width="150" height="112" rx="6" fill="#ffffff" stroke="#1f2a44" stroke-width="2"/>
+    <rect x="0" y="0" width="150" height="24" rx="6" fill="#1f2a44"/>
+    <path d="M0 52H150 M0 80H150 M50 0V112 M100 0V112" stroke="#cbd2dd" stroke-width="1.5"/>
+    <rect x="50" y="52" width="50" height="28" fill="#e6f2ef" stroke="#0f766e" stroke-width="2"/>
+    <text x="61" y="71" font-family="Menlo, Consolas, monospace" font-size="12" fill="#0f766e">0.611</text>
+    <text x="8" y="140" font-family="Menlo, Consolas, monospace" font-size="12" fill="#4a5568">SELECT … ✓</text>
+  </g>
+
+  <!-- Incremental classes: known boxes plus a new one -->
+  <g transform="translate(1085 78)">
+    <rect x="0" y="0" width="26" height="26" rx="4" fill="#1f2a44"/>
+    <rect x="0" y="36" width="26" height="26" rx="4" fill="#1f2a44"/>
+    <rect x="0" y="72" width="26" height="26" rx="4" fill="#1f2a44" opacity="0.55"/>
+    <rect x="0" y="108" width="26" height="26" rx="4" fill="none" stroke="#0f766e" stroke-width="2" stroke-dasharray="4 3"/>
+    <text x="5" y="127" font-family="Helvetica, Arial, sans-serif" font-size="17" fill="#0f766e">+</text>
+  </g>
+</svg>
