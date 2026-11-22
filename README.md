@@ -27,7 +27,7 @@ on earlier data and without forgetting the classes they already know. Work in pr
 A classifier that scores 99.9% on PlantVillage lab photos gets 18.6% on real field photos from PlantDoc.
 The project measures that gap and tests few-shot, semi-supervised and class-incremental training, plus
 weakly supervised lesion localization.<br>
-*PyTorch · EfficientNet · U-Net · Grad-CAM* — [Code](https://github.com/tajammulbasheer/plant_leaf_diseases_detection)
+*PyTorch · EfficientNet · U-Net · Grad-CAM* — [Demo](https://huggingface.co/spaces/tajammulbasheer/plant-leaf-disease-detection) · [Code](https://github.com/tajammulbasheer/plant_leaf_diseases_detection)
 
 **Reproducing and Extending Table-LLM-Specialist (EMNLP 2025)**<br>
 Reproduced the paper's self-trained NL-to-SQL results on Llama-3.1-8B using public GitTables data in place of its
